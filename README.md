@@ -1,3 +1,3 @@
 # Competitive Programming Solutions
 
-A collection of solutions to the most solved SPOJ problems in C++11
+A collection of competitive programming in codeforces and sphere online judge in C++11
